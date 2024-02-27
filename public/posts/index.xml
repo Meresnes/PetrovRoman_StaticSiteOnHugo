@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Petrov Roman, Hugo deploy</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Petrov Roman, Hugo deploy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Feb 2024 07:07:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Пост о проделаной работе</title>
+      <link>http://localhost:1313/posts/main/</link>
+      <pubDate>Tue, 27 Feb 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/posts/main/</guid>
+      <description>Отчет об успешном деплое статического сайта с использованием Hugo Ученик: Петров Роман Сергеевич Сегодня, 27.02.24 я успешно выполнил задание по деплою статического сайта с использованием генератора статических сайтов Hugo на платформе GitHub Pages.&#xA;Задание: Создать статический сайт с использованием Hugo. Инициализировать репозиторий на GitHub. Настроить автоматический деплой сайта на GitHub Pages. Выполнение: Установка Hugo: Установил Hugo с помощью Chocolatey и настроил его на своем локальном компьютере.&#xA;Создание страницы с постом: Была разработана страница с этим постом, используя Hugo.</description>
+    </item>
+  </channel>
+</rss>

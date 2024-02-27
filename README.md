@@ -1,1 +1,2 @@
-# PetrovRoman_StaticSiteOnHugo
+# Деплой сайта с помощью Hugo 
+## Выполнинл Петров Роман
